@@ -10,6 +10,8 @@ import TextEditor from '../../img/textEditor.png';
 import Humanae from '../../img/man.png';
 import Canvas from '../../img/code.png';
 import Portfolio from '../../img/portfolio.png';
+import textEditor from '../../img/text-editor.png';
+import summariser from '../../img/summariser.png';
 import { themeContext } from "../../context";
 const Projects = () => {
     const theme = useContext(themeContext);
@@ -45,6 +47,16 @@ const Projects = () => {
             img:Canvas,
             review:"These are few pieces of HTML5 canva codes for contellation effect , physics friction on a ball etc done using javascript for fun.",
             link:"https://github.com/Amisha8899/canvas"
+        },
+        {
+            img:textEditor,
+            review:"This ML project makes use of TensorFlow library with Keras API to predict text.",
+            link:"https://github.com/Amisha8899/Word_Predictor-ML-Project-1"
+        },
+        {
+            img:summariser,
+            review:"This is also a ML project that can summarise news articles and can give you a gist of the news. It also tells about polarity of the news.",
+            link:"https://github.com/Amisha8899/Summarizer_ML_Proj2"
         }
     ]
   return (

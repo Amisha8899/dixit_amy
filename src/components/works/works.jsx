@@ -23,9 +23,8 @@ const Works = () => {
                 as a part of my small journey as a web developer 
                 that inculede HTML, CSS, Javascript, Bootstrap, 
                 JQuery and React for frontend. And MongoDB, NodeJs 
-                and ExpressJS for backend. I have worked somewhat with HTML5 canva. I have worked on JWS WebTokens 
-                for implementing Login features in website and also libraries
-                 like bcrypt, passportJs etc for password hashing and salting. </span>
+                and ExpressJS for backend. I have worked somewhat with HTML5 canva. 
+                I have also done some projects in Machine Learning.</span>
                 <button className="button" style={{marginTop:'30px'}}></button>
                 <div className="s-blurl blur" style={{background:"#ABF1FF94"}}></div>
             </div>
