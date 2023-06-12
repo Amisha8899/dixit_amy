@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/dixit_amy/static/css/main.da44d980.css",
+    "main.js": "/dixit_amy/static/js/main.387616bb.js",
+    "static/media/myPhoto.png": "/dixit_amy/static/media/myPhoto.7b02051803a101b0b496.png",
+    "static/media/Resume.pdf": "/dixit_amy/static/media/Resume.220b432bc2535bc56d37.pdf",
+    "static/media/react.png": "/dixit_amy/static/media/react.d2f858cd34386e69caee.png",
+    "static/media/glassesimoji.png": "/dixit_amy/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/mongodb.png": "/dixit_amy/static/media/mongodb.cd6a10658d1549570fd0.png",
+    "static/media/hackerrank.png": "/dixit_amy/static/media/hackerrank.1dd07fc93a802794424a.png",
+    "static/media/javascript.png": "/dixit_amy/static/media/javascript.4639c895c33d52eebeff.png",
+    "static/media/html5.png": "/dixit_amy/static/media/html5.03005efe33e913bcefe1.png",
+    "static/media/chat.png": "/dixit_amy/static/media/chat.b626883e611b3762a108.png",
+    "static/media/man.png": "/dixit_amy/static/media/man.e5822336f5f0e9946875.png",
+    "static/media/portfolio.png": "/dixit_amy/static/media/portfolio.54c131eb2cb5a619f18b.png",
+    "static/media/code.png": "/dixit_amy/static/media/code.ea42251e9f3632c3814b.png",
+    "static/media/codechef.png": "/dixit_amy/static/media/codechef.c52a1a2114a9355807a9.png",
+    "static/media/thumbup.png": "/dixit_amy/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/synergy.png": "/dixit_amy/static/media/synergy.e2fa0b40a5fb2a1c836b.png",
+    "static/media/humble.png": "/dixit_amy/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/dixit_amy/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/textEditor.png": "/dixit_amy/static/media/textEditor.7a72cc3fd93c0ffe4f29.png",
+    "static/media/wave.png": "/dixit_amy/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/css3.png": "/dixit_amy/static/media/css3.8aaf7833370a6845139c.png",
+    "static/media/crown.png": "/dixit_amy/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/dixit_amy/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/dixit_amy/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/express.png": "/dixit_amy/static/media/express.551b076d3a202df33a0c.png",
+    "index.html": "/dixit_amy/index.html",
+    "main.da44d980.css.map": "/dixit_amy/static/css/main.da44d980.css.map",
+    "main.387616bb.js.map": "/dixit_amy/static/js/main.387616bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da44d980.css",
+    "static/js/main.387616bb.js"
+  ]
+}
