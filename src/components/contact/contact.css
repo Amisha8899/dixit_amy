@@ -34,10 +34,12 @@ textarea{
 }
 @media screen and (max-width: 480px) {
     .contact-form{
-        padding: 0;
         flex-direction: column;
-        gap: 5rem;
-        height: 40rem;
+        height: 50rem;
+        scale: 0.9;
+    }
+    .c-awesome{
+        height: 15rem;
     }
     .c-right .user{
         width: 16rem;

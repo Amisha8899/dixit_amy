@@ -29,6 +29,10 @@ h6{
 }
 @media screen  and (max-width:480px) {
     .f-content{
-        transform: scale(0.5);
+        margin: 0px;
+        scale: 0.7;
+    }
+    .footer img{
+        scale: 8;
     }
 }

@@ -88,18 +88,20 @@
 @media screen and (max-width:480px) {
     .works{
         flex-direction: column;
-        height: 90rem;
+        height: 58rem;
         gap: 8rem;
         padding: 0;
     }
     .awesome{
         width: 100%;
+        height: 30rem;
     }
     .w-right{
         display: flex;
         align-items: flex-start;
         justify-content: start;
-        transform: scale(0.7);
+        transform: scale(0.6);
+        left: -2rem;
     }
     .w-mainCircle{
         position: static;

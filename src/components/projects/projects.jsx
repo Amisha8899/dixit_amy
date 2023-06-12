@@ -19,7 +19,7 @@ const Projects = () => {
     const proj = [
         {
             img:Synergy,
-            review:"I contributed in the website made for our Departmental Symposium Synergy'23 that was used for a number of registrations (600+) for events , workshops , guestlectures etc all around south India.",
+            review:"I contributed to the website made for our Departmental Symposium Synergy'23 that was used for a number of registrations (600+) for events, workshops, guestlectures etc all around south India.",
             link:"https://github.com/Amisha8899/Synergy-2021-Website"
         }
         ,
@@ -30,7 +30,7 @@ const Projects = () => {
         },
         {
             img:TextEditor,
-            review:"Again this is being made using React, mongoose and socket.io .I have made use of quill library for it. It does include the use of socket.io for allowing people to work on the same file from different locations simultaneously.",
+            review:"This is being made using React, mongoose and quill library. It does include the use of socket.io for allowing people to work on the same file from different locations simultaneously.",
             link:"https://github.com/Amisha8899/Inscribe"
         },
         {

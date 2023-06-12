@@ -46,14 +46,16 @@
     .edu{
         margin-top: 0;
         flex-direction: column;
-        gap: 8rem;
-        height: 85rem;
+        gap: 1rem;
+        height: 60rem;
         padding: 0;
     }
     .cards{
         display: flex;
         flex-direction: column;
         gap: 17rem;
+        scale: 0.6;
+        left: -1rem;
     }
     .cards>*{
         position: static;

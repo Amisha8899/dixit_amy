@@ -65,6 +65,7 @@
 @media screen  and (max-width:480px) {
     .t-wrapper{
         padding: 0;
+        height: 30rem;
     }
     .proj>a>img{
         width: 70px;
